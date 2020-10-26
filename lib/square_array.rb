@@ -1,6 +1,6 @@
 def square_array(array)
-  element = 0
+  index = 0
   new_array = []
-  while element < array.length do
-  new_array << array[element]
+  while index < array.length do
+  new_array << array[index] **
 end
